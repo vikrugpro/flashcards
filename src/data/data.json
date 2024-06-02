@@ -1,0 +1,23 @@
+[
+    {
+        "word": "dog",
+        "transcription": "dɔ:g",
+        "translation": "собака",
+        "topic": "животные",
+        "boolean": false
+    },
+    {
+        "word": "bus",
+        "transcription": "bʌs",
+        "translation": "автобус",
+        "topic": "транспорт",
+        "boolean": true
+    },
+    {
+        "word": "cheese",
+        "transcription": "tʃi:z",
+        "translation": "сыр",
+        "topic": "еда",
+        "boolean": true
+    }
+]

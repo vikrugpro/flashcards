@@ -1,0 +1,16 @@
+$color1: #e27d60;
+$color2: #41b3a3;
+$color3: #e8a87c;
+$color4: #c38d9e;
+
+@mixin font($ff, $fs, $fc, $fw) {
+    font-family: $ff;
+    font-size: $fs;
+    color: $fc;
+    font-weight: $fw;
+}
+@mixin flex($fd, $jc, $ai) {
+    flex-direction: $fd;
+    justify-content: $jc;
+    align-items: $ai;
+}
